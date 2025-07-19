@@ -12,7 +12,7 @@ A filosofia do iubaOS é criar um sistema operacional que já venha pronto para 
 
 ## 🎯 Funcionalidades e Aplicações
 
-Com base na documentação do projeto, os três aplicativos personalizados desenvolvidos em Python para a distribuição têm as seguintes funcionalidades:
+Com base na documentação do projeto, os três aplicativos personalizados foram desenvolvidos em Python para a distribuição, com as seguintes funcionalidades:
 
 * **NoteSyst**: Um aplicativo de gestão de notas e informações, ideal para organizar dados de forma estruturada.
 * **ToDoList**: Um gerenciador de tarefas nativo para planejar e acompanhar atividades pendentes.
